@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ui container"
+  >
+    <div
+      class="jsx-1970282766"
+    >
+      <main
+        class="jsx-1970282766"
+      >
+        <h1
+          class="jsx-1970282766 ui header"
+        >
+          最近の地震情報
+        </h1>
+        <div>
+          Loading ...
+        </div>
+      </main>
+      <footer
+        class="jsx-1970282766"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
